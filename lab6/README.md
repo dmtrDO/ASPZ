@@ -1,8 +1,8 @@
 <hr>
 
-# <p style="margin: 0; text-align: center;">Лабораторна робота №6</p>
+# <p style="margin: 0;" align="center">Лабораторна робота №6</p>
 
-## <p style="margin: -12px 0 6px 0; text-align: center;">Варіант 5</p>
+## <p style="margin: -12px 0 6px 0;" align="center">Варіант 5</p>
 
 <br>
 
