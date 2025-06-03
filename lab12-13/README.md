@@ -5,12 +5,8 @@
 <br>
 
 <p align='justify'>
-<span style="font-weight: bold;">
-Handling Signals
-</span>
-(рисунок 1, 2).
+<strong>Handling Signals</strong> (рисунок 1, 2).
 </p>
-
 <p align='center'>
     <img src="img/1.png">
 </p>
@@ -37,9 +33,9 @@ Handling Signals
 <a href="https://askubuntu.com/questions/510811/what-is-the-difference-between-ctrl-z-and-ctrl-c-in-the-terminal">https://askubuntu.com/questions/510811/what-is-the-difference-between-ctrl-z-and-ctrl-c-in-the-terminal</a><br><br>
 
 
-<span style="font-weight: bold;">
+<b>
 A Simple C Program that Handles a Couple of Signals
-</span>
+</b>
  (рисунок 3, 4).
 </p>
 
